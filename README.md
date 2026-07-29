@@ -1,12 +1,10 @@
 #  Customer Churn Prediction
-
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
-
 
 <p align="center">
   <img src="images/customer_feedback.png" width="700">
