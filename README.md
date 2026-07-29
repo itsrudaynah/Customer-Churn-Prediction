@@ -157,8 +157,6 @@ Customer-Churn-Prediction
 │
 ├── images
 │
-├── models
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
